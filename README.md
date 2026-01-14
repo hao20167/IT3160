@@ -78,6 +78,24 @@ IT3160/
 └── data/                 # Feature engineering and datasets
 ```
 
+## 📊 Results
+
+The performance of our hierarchical agent has been visualized below. For more detailed analysis, **interactive HTML reports** are available in the `result/` directory.
+
+### Portfolio Value Comparison
+Comparing the agent's performance against the benchmark.
+![Value Comparison](img/value_comparison.png)
+
+### Trades Overlay
+Visualization of buy/sell points overlayed on price data.
+![Trades Overlay](img/trades_overlay.png)
+
+### Trade Replay
+A replay of specific trading episodes.
+![Trade Replay](img/trade_replay.png)
+
+---
+
 ## ⚠️ Disclaimer
 
 *This software is for educational and research purposes only. Do not use this for live trading without extensive testing and understanding of the risks involved. Financial markets are unpredictable, and past performance is not indicative of future results.*
